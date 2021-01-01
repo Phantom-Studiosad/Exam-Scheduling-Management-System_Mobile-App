@@ -15,7 +15,7 @@ The Examination Department must collect all student examination registration det
 
 ## Screenshots
 
-Login               |  Welcome  |  Register
+Home                |   Login   |  Admin
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/dharun276/Exam-Scheduling-Management-System/blob/master/Screenshots/IMG_20201129_130616.png?raw=true)|![](https://github.com/dharun276/Exam-Scheduling-Management-System/blob/master/Screenshots/IMG_20201129_130628.png?raw=true)|![](https://github.com/dharun276/Exam-Scheduling-Management-System/blob/master/Screenshots/IMG_20201129_130640.png?raw=true) 
 
