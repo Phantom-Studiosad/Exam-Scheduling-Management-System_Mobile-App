@@ -42,13 +42,13 @@ This system automates the process of exam scheduling and seat allotment processe
 ## Tools Used
 
 EDITOR:
- - ANDROID STUDIO
+ - [ANDROID STUDIO](https://developer.android.com/studio)
  
 FRONT-END:
- - FLUTTER
+ - [FLUTTER](https://flutter.dev/)
  
 BACK-END:
- - FIREBASE
+ - [FIREBASE](https://firebase.google.com/?&gclid=CjwKCAiArbv_BRA8EiwAYGs23JxCKu7t4KyqmglHNQUp6m87LkhrzqsO_erg-sV8l3Kpo2Ywbw957xoCt50QAvD_BwE)
  
 ## Created & Maintained By
  [&nbsp;&nbsp;&nbsp;DHARUN NARAYANAN L K](https://github.com/dharun276?tab=repositories) <br/>
