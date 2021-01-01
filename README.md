@@ -17,12 +17,10 @@ The Examination Department must collect all student examination registration det
 
 Login               |  Welcome  |  Register
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/dharun276/Exam-Scheduling-Management-System/blob/master/Screenshots/IMG_20201129_130616.png?raw=true)|![]
-(https://github.com/dharun276/Exam-Scheduling-Management-System/blob/master/Screenshots/IMG_20201129_130628.png?raw=true)|![]
-(https://github.com/dharun276/Exam-Scheduling-Management-System/blob/master/Screenshots/IMG_20201129_130640.png?raw=true) 
+![](https://github.com/dharun276/Exam-Scheduling-Management-System/blob/master/Screenshots/IMG_20201129_130616.png?raw=true)|![](https://github.com/dharun276/Exam-Scheduling-Management-System/blob/master/Screenshots/IMG_20201129_130628.png?raw=true)|![](https://github.com/dharun276/Exam-Scheduling-Management-System/blob/master/Screenshots/IMG_20201129_130640.png?raw=true) 
 
 ## Functionality 
-
+ 
 - Allocating exam hall and timeslots. 
 - Allocating faculties for invigilation. 
 - Adding and removing students from database.
