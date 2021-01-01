@@ -9,7 +9,7 @@ The Examination Department must collect all student examination registration det
 
 
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/a0690a86011377.5d9df2afceda1.png"  /> 
+<img src="https://github.com/dharun276/Exam-Scheduling-Management-System/blob/master/Screenshots/img.png"  /> 
 
 
 
