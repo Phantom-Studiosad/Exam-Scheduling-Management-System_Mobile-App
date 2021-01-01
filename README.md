@@ -57,7 +57,7 @@ BACK-END:
 
 > If you found this project helpful or you learned something from the source code and want to thank me, I would be very glad if you can appreciate my work with your king donations. :moneybag:
 >
-> * [PayPal](https://www.paypal.me/TheAlphamerc/)
+> * [PayPal](https://www. paypal.me/DHARUNNARAYANAN/)
 
 
 > You can also nominate me for Github Star developer program https://stars.github.com/nominate
