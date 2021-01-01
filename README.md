@@ -51,7 +51,7 @@ BACK-END:
  - FIREBASE
  
 ## Created & Maintained By
-[DHARUN NARAYANAN L K](https://github.com/dharun276?tab=repositories) 
+[DHARUN NARAYANAN L K](https://github.com/dharun276?tab=repositories) <br/>
 ([Twitter](https://twitter.com/dharun_official)) ([LinkedIn](https://www.linkedin.com/in/dharun-narayanan-l-k-407459197/))
 ([Instagram](https://www.instagram.com/_dharun_26/?hl=en))
 
