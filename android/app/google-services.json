@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "106290903977",
+    "firebase_url": "https://esms-d8e3d.firebaseio.com",
+    "project_id": "esms-d8e3d",
+    "storage_bucket": "esms-d8e3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106290903977:android:45900199e5407033b1a2b8",
+        "android_client_info": {
+          "package_name": "com.esms.exam_schedule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106290903977-c54ucmjssj8kh0ugg95otr2ademu12cs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUAjFEasMmQZa_MvjizvK40qfjhRmUu8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106290903977-c54ucmjssj8kh0ugg95otr2ademu12cs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
