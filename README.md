@@ -4,18 +4,20 @@ A EXAM SCHEDULING MANAGEMENT SYSTEM APP
 
 The Examination Department must collect all student examination registration details, Faculty and Classroom details branch wise and year wise. These details include Student name, roll no., branch, year, list of subjects registered for the exam, Exam ID, Exam Type, Exam Date, Exam Time, Classroom number, Classroom capacity, block, session, FID, Faculty Dept. The examination Scheduling Management System atomizes the process of assigning seating arrangement. The dates and courses for examination are provided by the admin to the system, the system accesses the college database for student and classroom information and creates an exam schedule on the given dates. It also maintains whether a teacher is present on the examination day and dynamically allocate exam duties to them.
 
-## Getting Started
+## Download App ![GitHub All Releases](https://img.shields.io/github/downloads/Thealphamerc/flutter_login_signup/total?color=green)
+<a href="https://github.com/TheAlphamerc/flutter_login_signup/releases/download/v1.0.0/app-release.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/a0690a86011377.5d9df2afceda1.png"  /> 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## Screenshots
+
+Login               |  Welcome  |  Register
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/TheAlphamerc/flutter_login_signup/blob/master/screenshots/screenshot_2.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_login_signup/blob/master/screenshots/screenshot_1.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_login_signup/blob/master/screenshots/screenshot_3.jpg?raw=true) 
 
 ## Functionality 
 
@@ -47,4 +49,17 @@ FRONT-END:
  
 BACK-END:
  - FIREBASE
+ 
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
 
