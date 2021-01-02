@@ -42,6 +42,18 @@ This system includes the following modules: -
 
 This system automates the process of exam scheduling and seat allotment processes. It provides details and venue for the exams to the students and faculties.
 
+## Created & Maintained By
+ [&nbsp;&nbsp;&nbsp;DHARUN NARAYANAN L K](https://github.com/dharun276?tab=repositories) <br/>
+([Twitter](https://twitter.com/dharun_official)) ([LinkedIn](https://www.linkedin.com/in/dharun-narayanan-l-k-407459197/))
+([Instagram](https://www.instagram.com/_dharun_26/?hl=en))
+
+> If you found this project helpful or you learned something from the source code and want to thank me, I would be very glad if you can appreciate my work with your kind donations. :moneybag:
+>
+> * [PayPal](https://www.paypal.me/DHARUNNARAYANAN/)
+
+
+> You can also nominate me for Github Star developer program https://stars.github.com/nominate
+
 ## Getting Started
 
 Simple steps to get the mobile application running!!😍
@@ -56,18 +68,6 @@ FRONT-END:
  
 BACK-END:
  - [FIREBASE](https://firebase.google.com/?&gclid=CjwKCAiArbv_BRA8EiwAYGs23JxCKu7t4KyqmglHNQUp6m87LkhrzqsO_erg-sV8l3Kpo2Ywbw957xoCt50QAvD_BwE)
- 
-## Created & Maintained By
- [&nbsp;&nbsp;&nbsp;DHARUN NARAYANAN L K](https://github.com/dharun276?tab=repositories) <br/>
-([Twitter](https://twitter.com/dharun_official)) ([LinkedIn](https://www.linkedin.com/in/dharun-narayanan-l-k-407459197/))
-([Instagram](https://www.instagram.com/_dharun_26/?hl=en))
-
-> If you found this project helpful or you learned something from the source code and want to thank me, I would be very glad if you can appreciate my work with your kind donations. :moneybag:
->
-> * [PayPal](https://www.paypal.me/DHARUNNARAYANAN/)
-
-
-> You can also nominate me for Github Star developer program https://stars.github.com/nominate
  
 ## Getting Started
 
