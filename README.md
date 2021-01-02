@@ -1,7 +1,7 @@
 # EXAM-SCHEDULING-MANAGEMENT-SYSTEM (ESMS)
 
 A DBMS project that aims to automate the whole tedious task of conducting exams.
-A mobile application written in flutter using android studio to automate the process of Exam Scheduling and Management. Yeah, I know, The title gives it away. 
+A mobile application that runs on both android and ios, written in flutter using android studio to automate the process of Exam Scheduling and Management. Yeah, I know, The title gives it away.😎
 
 ## About The Project
 
@@ -41,6 +41,10 @@ This system includes the following modules: -
 ## Benefits Of The System
 
 This system automates the process of exam scheduling and seat allotment processes. It provides details and venue for the exams to the students and faculties.
+
+## Getting Started
+
+Simple steps to get the mobile application running!!😍
 
 ## Tools Used
 
