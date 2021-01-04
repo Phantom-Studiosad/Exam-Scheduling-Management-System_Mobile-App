@@ -51,6 +51,7 @@ This system automates the process of exam scheduling and seat allotment processe
 >
 > * [PayPal](https://www.paypal.me/DHARUNNARAYANAN/)
 
+> If you read this far, tweet to the author to show them you care. [Tweet a thanks](https://twitter.com/intent/tweet?text=Thank%20you%20@dharun_official%20for%20writing%20this%20helpful%20article%2e%0A%0AExam%20Scheduling%20Management%20System%20mobile%20application%20using%20flutter%0A%0Ahttps%3A%2F%2Fgithub.com%2Flkdharun%2FExam-Scheduling-Management-System)
 
 > You can also nominate me for Github Star developer program https://stars.github.com/nominate
 
