@@ -8,11 +8,11 @@ A mobile application that runs on both android and ios, written in flutter using
 The Examination Department must collect all student examination registration details, Faculty and Classroom details branch wise and year wise. These details include Student name, roll no., branch, year, list of subjects registered for the exam, Exam ID, Exam Type, Exam Date, Exam Time, Classroom number, Classroom capacity, block, session, FID, Faculty Dept. The examination Scheduling Management System atomizes the process of assigning seating arrangement. The dates and courses for examination are provided by the admin to the system, the system accesses the college database for student and classroom information and creates an exam schedule on the given dates. EXAM SCHEDULING MANAGEMENT SYSTEM APP (ESMS) also maintains whether a teacher is present on the examination day and dynamically allocate exam duties to them.
 
 ## Download App 
-<a href="https://github.com/dharun276/Exam-Scheduling-Management-System/releases/download/v1.0.7/base.apk"><img src="https://playerzon.com/asset/download.png" width="200"></a>
+<a href="https://github.com/dharun-narayanan/Exam-Scheduling-Management-System/releases/download/v1.0.7/base.apk"><img src="https://playerzon.com/asset/download.png" width="200"></a>
 
 
 
-<img src="https://github.com/dharun276/Exam-Scheduling-Management-System/blob/master/Screenshots/img.png"  /> 
+<img src="https://github.com/dharun-narayanan/Exam-Scheduling-Management-System/blob/master/Screenshots/img.png"  /> 
 
 
 
@@ -20,7 +20,7 @@ The Examination Department must collect all student examination registration det
 
 Home                |   Login   |  Admin
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/dharun276/Exam-Scheduling-Management-System/blob/master/Screenshots/IMG_20201129_130616.png?raw=true)|![](https://github.com/dharun276/Exam-Scheduling-Management-System/blob/master/Screenshots/IMG_20201129_130628.png?raw=true)|![](https://github.com/dharun276/Exam-Scheduling-Management-System/blob/master/Screenshots/IMG_20201129_130640.png?raw=true) 
+![](https://github.com/dharun-narayanan/Exam-Scheduling-Management-System/blob/master/Screenshots/IMG_20201129_130616.png?raw=true)|![](https://github.com/dharun-narayanan/Exam-Scheduling-Management-System/blob/master/Screenshots/IMG_20201129_130628.png?raw=true)|![](https://github.com/dharun-narayanan/Exam-Scheduling-Management-System/blob/master/Screenshots/IMG_20201129_130640.png?raw=true) 
 
 ## Functionality 
  
@@ -51,7 +51,7 @@ This system automates the process of exam scheduling and seat allotment processe
 >
 > * [PayPal](https://www.paypal.me/DHARUNNARAYANAN/)
 
-> If you read this far, tweet to the author to show them you care. [Tweet a thanks](https://twitter.com/intent/tweet?text=Thank%20you%20@dharun_official%20for%20writing%20this%20helpful%20article%2e%0A%0AExam%20Scheduling%20Management%20System%20mobile%20application%20using%20flutter%0A%0Ahttps%3A%2F%2Fgithub.com%2Flkdharun%2FExam-Scheduling-Management-System)
+> If you read this far, tweet to the author to show them you care. [Tweet a thanks](https://twitter.com/intent/tweet?text=Thank%20you%20@dharun_official%20for%20writing%20this%20helpful%20article%2e%0A%0AExam%20Scheduling%20Management%20System%20mobile%20application%20using%20flutter%0A%0Ahttps%3A%2F%2Fgithub.com%2Fdharun-narayanan%2FExam-Scheduling-Management-System)
 
 > You can also nominate me for Github Star developer program https://stars.github.com/nominate
 
