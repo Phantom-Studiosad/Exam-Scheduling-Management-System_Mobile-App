@@ -47,15 +47,15 @@ This system automates the process of exam scheduling and seat allotment processe
 ([Twitter](https://twitter.com/dharun_official)) ([LinkedIn](https://www.linkedin.com/in/dharun-narayanan-l-k-407459197/))
 ([Instagram](https://www.instagram.com/_dharun_26/?hl=en)) <br/>
 
- [&nbsp;&nbsp;&nbsp;ASHWANTH K](https://dharun-narayanan.github.io/me/) <br/>
-([Twitter](https://twitter.com/dharun_official)) 
+ [&nbsp;&nbsp;&nbsp;ASHWANTH K] <br/>
+([Twitter](https://twitter.com/Ashwant04810491)) 
 ([Instagram](https://www.instagram.com/ashwanth__07/?hl=en))<br/>
 
- [&nbsp;&nbsp;&nbsp;D T SUVANESH](https://dharun-narayanan.github.io/me/) <br/>
+ [&nbsp;&nbsp;&nbsp;D T SUVANESH] <br/>
 ([Twitter](https://twitter.com/suvanatr)) 
 ([Instagram](https://www.instagram.com/suvanesh_thiagarajan/?hl=en)) <br/>
 
- [&nbsp;&nbsp;&nbsp;B VIGNESH](https://dharun-narayanan.github.io/me/) <br/>
+ [&nbsp;&nbsp;&nbsp;B VIGNESH](https://github.com/vignesh721) <br/>
 ([Twitter](https://twitter.com/vigneeshh))
 ([Instagram](https://www.instagram.com/vicky_.22._/?hl=en))
 
