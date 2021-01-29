@@ -43,19 +43,19 @@ This system includes the following modules: -
 This system automates the process of exam scheduling and seat allotment processes. It provides details and venue for the exams to the students and faculties.
 
 ## Created & Maintained By
- [&nbsp;&nbsp;&nbsp;DHARUN NARAYANAN L K](https://dharun-narayanan.github.io/me/) <br/>
+ [DHARUN NARAYANAN L K](https://dharun-narayanan.github.io/me/) <br/>
 ([Twitter](https://twitter.com/dharun_official)) ([LinkedIn](https://www.linkedin.com/in/dharun-narayanan-l-k-407459197/))
 ([Instagram](https://www.instagram.com/_dharun_26/?hl=en)) <br/>
 
- [&nbsp;&nbsp;&nbsp;ASHWANTH K] <br/>
+ [ASHWANTH K]() <br/>
 ([Twitter](https://twitter.com/Ashwant04810491)) 
 ([Instagram](https://www.instagram.com/ashwanth__07/?hl=en))<br/>
 
- [&nbsp;&nbsp;&nbsp;D T SUVANESH] <br/>
+ [D T SUVANESH]() <br/>
 ([Twitter](https://twitter.com/suvanatr)) 
 ([Instagram](https://www.instagram.com/suvanesh_thiagarajan/?hl=en)) <br/>
 
- [&nbsp;&nbsp;&nbsp;B VIGNESH](https://github.com/vignesh721) <br/>
+ [B VIGNESH](https://github.com/vignesh721) <br/>
 ([Twitter](https://twitter.com/vigneeshh))
 ([Instagram](https://www.instagram.com/vicky_.22._/?hl=en))
 
