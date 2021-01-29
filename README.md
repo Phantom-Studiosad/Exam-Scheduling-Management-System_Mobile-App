@@ -45,7 +45,19 @@ This system automates the process of exam scheduling and seat allotment processe
 ## Created & Maintained By
  [&nbsp;&nbsp;&nbsp;DHARUN NARAYANAN L K](https://dharun-narayanan.github.io/me/) <br/>
 ([Twitter](https://twitter.com/dharun_official)) ([LinkedIn](https://www.linkedin.com/in/dharun-narayanan-l-k-407459197/))
-([Instagram](https://www.instagram.com/_dharun_26/?hl=en))
+([Instagram](https://www.instagram.com/_dharun_26/?hl=en)) <br/>
+
+ [&nbsp;&nbsp;&nbsp;ASHWANTH K](https://dharun-narayanan.github.io/me/) <br/>
+([Twitter](https://twitter.com/dharun_official)) 
+([Instagram](https://www.instagram.com/ashwanth__07/?hl=en))<br/>
+
+ [&nbsp;&nbsp;&nbsp;D T SUVANESH](https://dharun-narayanan.github.io/me/) <br/>
+([Twitter](https://twitter.com/suvanatr)) 
+([Instagram](https://www.instagram.com/suvanesh_thiagarajan/?hl=en)) <br/>
+
+ [&nbsp;&nbsp;&nbsp;B VIGNESH](https://dharun-narayanan.github.io/me/) <br/>
+([Twitter](https://twitter.com/vigneeshh))
+([Instagram](https://www.instagram.com/vicky_.22._/?hl=en))
 
 > If you found this project helpful or you learned something from the source code and want to thank me, I would be very glad if you can appreciate my work with your kind donations. :moneybag:
 >
