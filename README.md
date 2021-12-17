@@ -22,6 +22,19 @@ Home                |   Login   |  Admin
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/dharun-narayanan/Exam-Scheduling-Management-System/blob/master/Screenshots/IMG_20201129_130616.png?raw=true)|![](https://github.com/dharun-narayanan/Exam-Scheduling-Management-System/blob/master/Screenshots/IMG_20201129_130628.png?raw=true)|![](https://github.com/dharun-narayanan/Exam-Scheduling-Management-System/blob/master/Screenshots/IMG_20201129_130640.png?raw=true) 
 
+## Login credentials
+### Admin :
+<p>user name : admin@cb.admin.amrita.edu</p>
+<p>password  : admin123</p>
+
+### Faculty :
+<p>user name : cb.en.facse17333@cb.faculties.amrita.edu</p>
+<p>password  : abc123</p>
+
+### Student :
+<p>user name : cb.en.u4cse19306@cb.students.amrita.edu</p>
+<p>password  : 123456</p>
+
 ## Functionality 
  
 - Allocating exam hall and timeslots. 
